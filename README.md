@@ -65,8 +65,8 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10)
 ```
-![Top Paying Roles - Remote](assets\top_paying_roles_remote.png)
-![Top Paying Roles - LA](assets\top_paying_roles_la.png)
+![Top Paying Roles - Remote](assets/top_paying_roles_remote.png)
+![Top Paying Roles - LA](assets/top_paying_roles_la.png)
 
 *Horizontal Bar graphs showing the salary for the top 10 salaries for data analysts in remote positions and in Los Angeles.*
 ### Breakdown:
@@ -209,8 +209,8 @@ ORDER BY
 LIMIT 5)
 ```
 
-![Top demanded skills - Remote](assets\top_demanded_skills_remote.png)
-![Top demanded skills - Remote](assets\top_demanded_skills_la.png)
+![Top demanded skills - Remote](assets/top_demanded_skills_remote.png)
+![Top demanded skills - Remote](assets/top_demanded_skills_la.png)
 
 *Donut charts visualizing the most in-demand skills for Data Analysts in remote jobs and in Los Angeles*
 
@@ -271,8 +271,8 @@ ORDER BY
 LIMIT 25)
 ```
 
-![Top Paying Skills - Remote](assets\top_paying_skills_remote.png)
-![Top Paying Skills - LA](assets\top_paying_skills_la.png)
+![Top Paying Skills - Remote](assets/top_paying_skills_remote.png)
+![Top Paying Skills - LA](assets/top_paying_skills_la.png)
 
 *Treemap chart displaying the top-paying skills for Data Analysts in remote jobs and in Los Angeles; the higher-paying skills have the bigger squares/rectangles and are towards the left side, and descends to the right*
 
@@ -338,8 +338,8 @@ ORDER BY
     skill_demand_count DESC)
 ```
 
-![Optimal Skills - Remote](assets\optimal_skills_remote.png)
-![Optimal Skills - LA](assets\optimal_skills_la.png)
+![Optimal Skills - Remote](assets/optimal_skills_remote.png)
+![Optimal Skills - LA](assets/optimal_skills_la.png)
 
 *Tables showing the optimal skills for Data Analysts in remote jobs and in Los Angeles*
 
