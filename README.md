@@ -66,6 +66,7 @@ ORDER BY
 LIMIT 10)
 ```
 ![Top Paying Roles - Remote](assets\top_paying_roles_remote.png)
+
 ![Top Paying Roles - LA](assets\top_paying_roles_la.png)
 
 *Horizontal Bar graphs showing the salary for the top 10 salaries for data analysts in remote positions and in Los Angeles.*
