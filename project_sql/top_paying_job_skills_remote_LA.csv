@@ -1,0 +1,121 @@
+job_id,job_title,salary_year_avg,company_name,skills,skill_type,job_location
+552322,Associate Director- Data Insights,255829.5,AT&T,sql,programming,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,python,programming,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,r,programming,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,azure,cloud,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,databricks,cloud,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,aws,cloud,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,pandas,libraries,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,pyspark,libraries,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,jupyter,libraries,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,excel,analyst_tools,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,tableau,analyst_tools,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,power bi,analyst_tools,Anywhere
+552322,Associate Director- Data Insights,255829.5,AT&T,powerpoint,analyst_tools,Anywhere
+99305,"Data Analyst, Marketing",232423,Pinterest Job Advertisements,sql,programming,Anywhere
+99305,"Data Analyst, Marketing",232423,Pinterest Job Advertisements,python,programming,Anywhere
+99305,"Data Analyst, Marketing",232423,Pinterest Job Advertisements,r,programming,Anywhere
+99305,"Data Analyst, Marketing",232423,Pinterest Job Advertisements,hadoop,libraries,Anywhere
+99305,"Data Analyst, Marketing",232423,Pinterest Job Advertisements,tableau,analyst_tools,Anywhere
+1021647,Data Analyst (Hybrid/Remote),217000,Uclahealthcareers,sql,programming,Anywhere
+1021647,Data Analyst (Hybrid/Remote),217000,Uclahealthcareers,crystal,programming,Anywhere
+1021647,Data Analyst (Hybrid/Remote),217000,Uclahealthcareers,oracle,cloud,Anywhere
+1021647,Data Analyst (Hybrid/Remote),217000,Uclahealthcareers,tableau,analyst_tools,Anywhere
+1021647,Data Analyst (Hybrid/Remote),217000,Uclahealthcareers,flow,other,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,sql,programming,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,python,programming,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,go,programming,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,snowflake,cloud,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,pandas,libraries,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,numpy,libraries,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,excel,analyst_tools,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,tableau,analyst_tools,Anywhere
+168310,Principal Data Analyst (Remote),205000,SmartAsset,gitlab,other,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,sql,programming,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,python,programming,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,azure,cloud,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,aws,cloud,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,oracle,cloud,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,snowflake,cloud,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,tableau,analyst_tools,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,power bi,analyst_tools,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,sap,analyst_tools,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,jenkins,other,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,bitbucket,other,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,atlassian,other,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,jira,async,Anywhere
+731368,"Director, Data Analyst - HYBRID",189309,Inclusively,confluence,async,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,sql,programming,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,python,programming,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,r,programming,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,git,other,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,bitbucket,other,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,atlassian,other,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,jira,async,Anywhere
+310660,"Principal Data Analyst, AV Performance Analysis",189000,Motional,confluence,async,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,sql,programming,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,python,programming,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,go,programming,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,snowflake,cloud,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,pandas,libraries,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,numpy,libraries,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,excel,analyst_tools,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,tableau,analyst_tools,Anywhere
+1749593,Principal Data Analyst,186000,SmartAsset,gitlab,other,Anywhere
+387860,ERM Data Analyst,184000,Get It Recruit - Information Technology,sql,programming,Anywhere
+387860,ERM Data Analyst,184000,Get It Recruit - Information Technology,python,programming,Anywhere
+387860,ERM Data Analyst,184000,Get It Recruit - Information Technology,r,programming,Anywhere
+544491,"Data Analyst Manager, TikTok-US-Data Security",222500,TikTok,sql,programming,"Los Angeles, CA"
+544491,"Data Analyst Manager, TikTok-US-Data Security",222500,TikTok,python,programming,"Los Angeles, CA"
+544491,"Data Analyst Manager, TikTok-US-Data Security",222500,TikTok,r,programming,"Los Angeles, CA"
+314402,Lead Data Analyst LIVE - USDS,217550,TikTok,sql,programming,"Los Angeles, CA"
+314402,Lead Data Analyst LIVE - USDS,217550,TikTok,python,programming,"Los Angeles, CA"
+314402,Lead Data Analyst LIVE - USDS,217550,TikTok,express,webframeworks,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,sql,programming,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,python,programming,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,nosql,programming,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,mongodb,programming,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,mysql,databases,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,postgresql,databases,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,mongodb,databases,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,cassandra,databases,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,spark,libraries,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,pandas,libraries,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,hadoop,libraries,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,kafka,libraries,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,express,webframeworks,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,tableau,analyst_tools,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,power bi,analyst_tools,"Los Angeles, CA"
+36333,Data Analytics- USDS,204584.5,TikTok,flow,other,"Los Angeles, CA"
+115536,"Lead Data Analyst, Influence Operations - USDS",172118.5,TikTok,sql,programming,"Los Angeles, CA"
+115536,"Lead Data Analyst, Influence Operations - USDS",172118.5,TikTok,express,webframeworks,"Los Angeles, CA"
+1352755,Lead Data Analyst,160000,MediaAlpha,sql,programming,"Los Angeles, CA"
+1352755,Lead Data Analyst,160000,MediaAlpha,python,programming,"Los Angeles, CA"
+1352755,Lead Data Analyst,160000,MediaAlpha,r,programming,"Los Angeles, CA"
+1352755,Lead Data Analyst,160000,MediaAlpha,go,programming,"Los Angeles, CA"
+1352755,Lead Data Analyst,160000,MediaAlpha,airflow,libraries,"Los Angeles, CA"
+1352755,Lead Data Analyst,160000,MediaAlpha,excel,analyst_tools,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,sql,programming,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,sql server,databases,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,oracle,cloud,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,excel,analyst_tools,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,tableau,analyst_tools,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,ssis,analyst_tools,"Los Angeles, CA"
+1342278,Data System Analyst,158950,UCLA Health,ssrs,analyst_tools,"Los Angeles, CA"
+1215520,"Live Subscription, Data Analyst- USDS",158175,TikTok,sql,programming,"Los Angeles, CA"
+1215520,"Live Subscription, Data Analyst- USDS",158175,TikTok,python,programming,"Los Angeles, CA"
+1215520,"Live Subscription, Data Analyst- USDS",158175,TikTok,express,webframeworks,"Los Angeles, CA"
+1215520,"Live Subscription, Data Analyst- USDS",158175,TikTok,tableau,analyst_tools,"Los Angeles, CA"
+1215520,"Live Subscription, Data Analyst- USDS",158175,TikTok,power bi,analyst_tools,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,sql,programming,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,python,programming,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,r,programming,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,excel,analyst_tools,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,tableau,analyst_tools,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,power bi,analyst_tools,"Los Angeles, CA"
+594288,Data Analyst,150000,AMIRI,looker,analyst_tools,"Los Angeles, CA"
+52466,"Data Analyst / Sr Data Analyst, LIVE - USDS",149508.5,TikTok,sql,programming,"Los Angeles, CA"
+52466,"Data Analyst / Sr Data Analyst, LIVE - USDS",149508.5,TikTok,express,webframeworks,"Los Angeles, CA"
+69687,Sr/Lead Data Analyst LIVE - USDS,149508.5,TikTok,sql,programming,"Los Angeles, CA"
+69687,Sr/Lead Data Analyst LIVE - USDS,149508.5,TikTok,python,programming,"Los Angeles, CA"
+69687,Sr/Lead Data Analyst LIVE - USDS,149508.5,TikTok,express,webframeworks,"Los Angeles, CA"
