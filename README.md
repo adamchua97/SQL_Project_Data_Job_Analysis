@@ -147,8 +147,8 @@ INNER JOIN skills_dim ON skills_dim.skill_id = skills_job_dim.skill_id
 ORDER BY
     salary_year_avg DESC))
 ```
-![Top Skills in the Top Paying Roles - Remote](assets\top_paying_job_skills_remote.png)
-![Top Skills in the Top Paying Roles - LA](assets\top_paying_job_skills_la.png)
+![Top Skills in the Top Paying Roles - Remote](top_paying_job_skills_remote.png)
+![Top Skills in the Top Paying Roles - LA](top_paying_job_skills_la.png)
 
 *Vertical bar charts visualizing the skills for the highest-paying jobs for data analysts in remote positions and Los Angeles; also shows the total average annual salary the skills yield.*
 
