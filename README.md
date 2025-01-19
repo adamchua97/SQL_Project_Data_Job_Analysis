@@ -356,6 +356,9 @@ ORDER BY
 
 - **Project Management and Collaboration:** Jira and Confluence, these tools are important for managing projects and fostering collaboration, particularly in remote work environments.
 
+## Dashboard Preview:
+![Project Visualizations Dashboard](assets/data_job_analysis_dashb.png)
+
 
 # Conclusion
 ## Summary of Insights
