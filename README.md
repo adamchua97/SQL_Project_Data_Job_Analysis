@@ -3,7 +3,7 @@ This project dives into the data job market, focusing on data analyst roles. **T
 # Background
 As an aspiring Data Analyst, I was interested in the various data-related roles that are in today's job market. I was curious to see what specific positions were there, the companies that hire them, the skills they possess and the salaries they make.
 
-The data comes from Luke Barousse's [SQL Course](https://www.lukebarousse.com/sql). It's filled with data on job titles, salaries, locations and important skills and technologies.
+It's filled with data on job titles, salaries, locations and important skills and technologies.
 
 ### The strategic questions I wanted to answer and used for analysis:
 1. *What are the highest-paying data analyst roles?*
